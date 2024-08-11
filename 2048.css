@@ -7,8 +7,6 @@ hr{
 }
 #board{
 
-    width: 90vw;
-    height: 90vw;
     max-width: 400px;
     max-height: 400px;
     background-color: #cdc1b5;
